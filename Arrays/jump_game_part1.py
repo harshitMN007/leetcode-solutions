@@ -17,7 +17,7 @@ class Solution:
         return req(goal)    
         
         
-        
+  #method-2      
  class Solution:
     def canJump(self, nums: list[int]) -> bool:
         goal = len(nums) - 1
